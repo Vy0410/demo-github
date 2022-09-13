@@ -1,2 +1,2 @@
 # demo-github
-lồn trường cc
+lồn trường cc cc
